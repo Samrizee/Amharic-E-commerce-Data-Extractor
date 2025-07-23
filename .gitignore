@@ -1,0 +1,13 @@
+# Virtual env
+.venv/
+
+# Compiled files
+__pycache__/
+*.pyc
+
+# Data files
+data/raw/
+data/processed/
+photos/
+telegram_data.csv
+venv/
