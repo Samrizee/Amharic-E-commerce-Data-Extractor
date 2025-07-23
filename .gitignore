@@ -11,3 +11,4 @@ data/processed/
 photos/
 telegram_data.csv
 venv/
+.session
